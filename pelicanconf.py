@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Günther'
 SITENAME = 'Banana Waza'
 SITESUBTITLE = 'La source officielle d´information sur le kendo en belgique et dans le monde'
-SITEURL = ''
+SITEURL = 'https://phury.github.io/banana-waza'
 THEME = 'themes/alchemy'
 THEME_CSS_OVERRIDES = ['theme/css/banana.css']
 DISPLAY_PAGES_ON_MENU = True
