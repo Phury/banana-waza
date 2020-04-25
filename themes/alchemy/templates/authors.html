@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Authors {{ super() }}
+{% endblock %}
+
+{% block page_header %}
+  Authors
+{% endblock %}
+
+{% block content %}
+  <ul>
+    {% for author, articles in authors|sort %}
+      <li>
+        <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+        <span class="badge badge-info">{{ articles|count }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+{% endblock %}
