@@ -2,10 +2,11 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+PORT=7777
 AUTHOR = 'Günther'
 SITENAME = 'Banana Waza'
-SITESUBTITLE = 'La source officielle d´information sur le kendo en belgique et dans le monde'
-SITEURL = 'https://phury.github.io/banana-waza'
+SITESUBTITLE = 'La véritables source d´information sur le kendo'
+#SITEURL = 'https://phury.github.io/banana-waza'
 THEME = 'themes/alchemy'
 THEME_CSS_OVERRIDES = ['theme/css/banana.css']
 DISPLAY_PAGES_ON_MENU = True
@@ -25,9 +26,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Articles', '/category/articles.html'),
-         ('Belgique', '/category/kendo_be.html'),
-         ('Monde', '/category/kendo_world.html'),)
+
+LINKS = (
+	('Articles', '/category/articles.html'),
+#    ('Belgique', '/category/kendo_be.html'),
+#    ('Monde', '/category/kendo_world.html'),
+ )
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),

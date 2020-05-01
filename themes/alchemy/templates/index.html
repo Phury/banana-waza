@@ -17,35 +17,26 @@
 
 {% block content %}
   {% for article in articles_page.object_list %}
-    <article class="row teaser">
-      <header class="col-sm-4 text-muted">
-        <ul>
-          <li title="{{ article.date.isoformat() }}">
-            <i class="fas fa-clock"></i>
-            {{ article.locale_date }}
-          </li>
-          <li>
-            <i class="fas fa-folder-open"></i>
-            <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
-          </li>
-          {% if not HIDE_AUTHORS and article.authors %}
-            <li>
-              <i class="fas fa-user"></i>
-              {% for author in article.authors %}
-                <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>{% if not loop.last %}, {% endif %}
-              {% endfor %}
-            </li>
-          {% endif %}
-        </ul>
-      </header>
-      <div class="col-sm-8">
+    <article class="teaser">
+      <section>
+        <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
         <h4 class="title">
           <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.link %} <i class="fas fa-link"></i>{% endif %}</a>
         </h4>
         <div class="content">
           {{ article.summary|striptags }}
         </div>
-      </div>
+      </section>
+      <footer class="text-muted">
+        <p title="{{ article.date.isoformat() }}">
+          {{ article.locale_date }} par
+          {% if not HIDE_AUTHORS and article.authors %}
+            {% for author in article.authors %}
+              <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>{% if not loop.last %}, {% endif %}
+            {% endfor %}
+          {% endif %}
+        </p>
+      </footer>
     </article>
     {% if not loop.last %}
       <hr>

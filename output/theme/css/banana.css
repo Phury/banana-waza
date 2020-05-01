@@ -25,11 +25,6 @@ a {
 	font-family: 'Raleway', sans-serif;
 }
 
-article p {
-	font-size: 1.2rem;
-    line-height: 1.55;
-}
-
 hr {
 	height: 0.2em;
 }
@@ -65,6 +60,13 @@ header.header.hero {
 	color: #000;
 }
 
+
+
+article.article p {
+	font-size: 1.2rem;
+    line-height: 1.55;
+}
+
 article.article .content p {
 	font-family: 'Spectral', serif;
 }
@@ -78,3 +80,7 @@ article.article .content p {
 		font-weight: lighter;
 		font-size: 0.9rem;
 	}
+
+article.teaser footer p {
+	font-family: 'Raleway', sans-serif;	
+}
