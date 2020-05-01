@@ -2,6 +2,7 @@ Title: A Propos de Günther
 Date: 2020-04-01
 Category: Auteurs
 Tags: auteurs
+Author: PH
 
 
 Günther Reibekuchen est 8ièm dan de kendo, multi-médaillé et professeur principal du club kobura kai kendo club bruxelles (コブラ 会).

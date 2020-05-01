@@ -29,6 +29,7 @@ AUTHOR_FEED_RSS = None
 
 LINKS = (
 	('Articles', '/category/articles.html'),
+	('Auteurs', '/authors.html'),
 #    ('Belgique', '/category/kendo_be.html'),
 #    ('Monde', '/category/kendo_world.html'),
  )
