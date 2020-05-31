@@ -19,27 +19,33 @@
   {% for article in articles_page.object_list %}
     <article class="teaser">
       <section>
-        <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
-        <h4 class="title">
-          <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.link %} <i class="fas fa-link"></i>{% endif %}</a>
-        </h4>
+        <h3 class="title">
+          <a href="{{ SITEURL }}/{{ article.url }}">
+            {{ article.title }}{% if article.link %} <i class="fas fa-link"></i>{% endif %}
+          </a>
+        </h3>
+        {% if not HIDE_AUTHORS and article.authors %}
+         <p>
+          par {% for author in article.authors %}
+            <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>{% if not loop.last %}, {% endif %}
+          {% endfor %}
+          </p>
+        {% endif %}
         <div class="content">
           {{ article.summary|striptags }}
         </div>
       </section>
       <footer class="text-muted">
-        <p title="{{ article.date.isoformat() }}">
-          {{ article.locale_date }} par
-          {% if not HIDE_AUTHORS and article.authors %}
-            {% for author in article.authors %}
-              <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>{% if not loop.last %}, {% endif %}
-            {% endfor %}
-          {% endif %}
+        <p>
+          <a href="{{ SITEURL }}/{{ article.category.url }}">
+           {{ article.category }}</a><span title="{{ article.date.isoformat() }}">
+            {{ article.locale_date }} 
+          </span>
         </p>
       </footer>
     </article>
     {% if not loop.last %}
-      <hr>
+      <hr/>
     {% endif %}
   {% endfor %}
   {% include 'include/pagination.html' %}

@@ -1,17 +1,19 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import datetime
 
 PORT=7777
-AUTHOR = 'Günther'
+AUTHOR = 'PH'
 SITENAME = 'Banana Waza'
-SITESUBTITLE = 'La véritables source d´information sur le kendo'
-SITEURL = 'https://phury.github.io/banana-waza'
+SITESUBTITLE = 'La véritable source d´information sur le kendo'
+#SITEURL = 'https://phury.github.io/banana-waza'
 THEME = 'themes/alchemy'
 THEME_CSS_OVERRIDES = ['theme/css/banana.css']
 DISPLAY_PAGES_ON_MENU = True
 PATH = 'content'
 STATIC_PATHS = ['assets']
+EONS = datetime.datetime(2020, 4, 2)
 
 TIMEZONE = 'Europe/Paris'
 

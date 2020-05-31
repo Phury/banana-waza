@@ -22,18 +22,31 @@
 {% block content %}
   <article class="article">
     <header>
-      <div>Publié le {{ article.locale_date }}</div>
+      <div class="text-muted">
       {% if not HIDE_AUTHORS and article.authors %}
-        <div> Par
-        {% for author in article.authors %}
+        par {% for author in article.authors %}
            <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>{% if not loop.last %}, {% endif %}
         {% endfor %}
-        </div>
+      {% endif %}<span class="date">le {{ article.locale_date }}</span>
+      <br/>
+      {% if article.tags %}
+        publié dans {% for tag in article.tags %}
+          <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}
+        {% endfor %}
       {% endif %}
+      {% if article.translations %}
+        <i class="fas fa-globe"></i>
+        {% for translation in article.translations %}
+          <a href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang }}</a>
+        {% endfor %}
+      {% endif %}
+      </div>
     </header>
-    
-    <hr class="double"/>
 
+    <br/>
+    <!--
+    <hr class="double"/>
+    -->
     <div class="content">
       {{ article.content }}
       {% if article.link %}
@@ -42,28 +55,8 @@
         </a></p>
       {% endif %}
     </div>
-    
-    <hr class="double"/>
 
     <footer>
-      <ul class="list-inline">
-      {% if article.tags %}
-          <li class="list-inline-item">
-            <i class="fas fa-tag"></i>
-            {% for tag in article.tags %}
-              <a href="{{ SITEURL }}/{{ tag.url }}">#{{ tag }}</a>{% if not loop.last %}, {% endif %}
-            {% endfor %}
-          </li>
-        {% endif %}
-        {% if article.translations %}
-          <li class="list-inline-item">
-            <i class="fas fa-globe"></i>
-            {% for translation in article.translations %}
-              <a href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang }}</a>
-            {% endfor %}
-          </li>
-        {% endif %}
-      </ul>
     </footer>
   </article>
   {% include 'include/comments.html' %}

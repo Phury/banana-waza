@@ -11,8 +11,12 @@
 {% block content %}
   <dl class="dl-horizontal">
     {% for article in dates %}
-      <dt>{{ article.locale_date }}</dt>
-      <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+    	<dt>{% if article.locale_date < EONS %}
+	      		il y a bien longtemps
+	      	{% endif %}
+  			{{ article.locale_date }}
+  		</dt>
+    	<dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
     {% endfor %}
   </dl>
 {% endblock %}
