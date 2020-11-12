@@ -17,7 +17,7 @@ Voilà ça y est, les pays re-confinent mais sans re-confiner, par contre nous a
 
 La réalité virtuelle n'est plus de la science-fiction et il est dès lors possible de re-créer l'excitation d'un match de kendo depuis son fauteuil. Cette activité vous permettra d'aiguiser vos réflexes et peut-être même d'apprendre de nouvelles techniques. Attention, le réalisme est au rendez-vous et il ne faut pas avoir le cœur léger pour survivre aux épreuves difficiles que _Budokan: The Martial Spirit_ met sur notre chemin. S'entraîner avec _Budokan_, c'est un peu comme se battre avec papy Ishio; Il a l'air vieux, mais bon kami que c'est dur:
 
-<iframe class="yt embed" src="https://www.youtube.com/embed/8bquYoCYvhs&t" frameborder="0" allowfullscreen>
+<iframe class="yt embed" src="https://www.youtube.com/embed/8bquYoCYvhs?t=466s" frameborder="0" allowfullscreen>
 </iframe>
 
 Arriverez vous à battre le score de Gunther-sensei ?
