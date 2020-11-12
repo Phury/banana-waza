@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Chaînes {{ super() }}
+{% endblock %}
+
+{% block page_header %}
+  Chaînes
+{% endblock %}
+
+{% block content %}
+  <table class="table table-bordered table-striped">
+    {% for channel, articles in channels|sort %}
+      <tr>
+        <td><a href="{{ SITEURL }}/{{ channel.url }}">{{ channel }}</a></td>
+        <td>{{ articles|count }}</td>
+      </tr>
+    {% endfor %}
+  </table>
+{% endblock %}
