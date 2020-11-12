@@ -11,7 +11,7 @@ Voilà ca y est, les pays re-confinent mais sans re-confiner, par contre nous ar
 
 La réalité virtuelle n'est plus de la science fiction et il est dès lors possible de re-créer l'excitation d'un match de kendo depuis son fauteuil. Cette activité vous permettra d'aigiser vos réflexes et peut-être même d'apprendre de nouvelles techniques. Attention, le réalisme est au rendez-vous et il ne faut pas avoir le coeur léger pour surivre aux épreuves difficiles que _Budokan: The Martial Spirit_ met sur notre chemin. S'entrainer avec Budokan, c'est un peu comme se battre avec Ishio Sensei:
 
-<iframe width="420" height="345" src="www.youtube.com/watch?v=8bquYoCYvhs&t=7m28s">
+<iframe width="420" height="345" src="https://www.youtube.com/embed/8bquYoCYvhs&t" frameborder="0" allowfullscreen>
 </iframe>
 
 Arriverez vous a battre le score de Gunther-sensei ?
@@ -21,7 +21,7 @@ Arriverez vous a battre le score de Gunther-sensei ?
 
 La musique est un moyen de progresser en kendo et il ne faut pas le sous-estimer. Beaucoup de chansons parlent de kendo si l'on sait lire entre les lignes et c'est un exercice intéressant que de faire le lien entre les chansons de notre enfance et notre pratique préférée. Il y a évidemment des chansons plus évidentes que d'autres et je vous propose pour commencer cette pepite dont le lien avec le kendo est évident:
 
-<iframe width="420" height="345" src="https://www.youtube.com/watch?v=RG7bINW6soU">
+<iframe width="420" height="345" src="https://www.youtube.com/embed/RG7bINW6soU" frameborder="0" allowfullscreen>
 </iframe>
 
 Nous discuterons de vos chansons dans la prochaine session video-kendo.
