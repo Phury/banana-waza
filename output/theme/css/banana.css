@@ -122,3 +122,8 @@ img.avatar {
 .text-muted span:before, span.date:before {
     content: " · ";
 }
+
+iframe .yt.embed {
+	width: 100%;
+    min-height: 25vh;
+}
