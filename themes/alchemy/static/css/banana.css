@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Playfair+Display:wght@400;800&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&family=Playfair+Display:wght@400;800&family=Roboto&display=swap');
 /*
 theme
 font-family: 'Bungee Shade', cursive;
@@ -41,7 +41,7 @@ header.header {
 }
 
 	header.header .h1 {
-		font-family: 'Bungee Shade', cursive;
+		font-family: 'Playfair Display', serif;
 		font-size: 1.2rem;	
 	}
 
@@ -52,7 +52,7 @@ header.header.hero {
 
 	
 	header.header.hero h1 a {
-		font-family: 'Bungee Shade', cursive;
+		font-family: 'Playfair Display', serif;
 	}
 
 
