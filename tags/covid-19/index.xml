@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>covid-19 on Banana Waza</title>
-    <link>phury.github.io/banana-waza/tags/covid-19/</link>
+    <link>/banana-waza/tags/covid-19/</link>
     <description>Recent content in covid-19 on Banana Waza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-be</language>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="phury.github.io/banana-waza/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/banana-waza/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le kendo en re-confinement</title>
-      <link>phury.github.io/banana-waza/articles/2020-11-11-kendo-en-re-confinement/</link>
+      <link>/banana-waza/articles/2020-11-11-kendo-en-re-confinement/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>phury.github.io/banana-waza/articles/2020-11-11-kendo-en-re-confinement/</guid>
+      <guid>/banana-waza/articles/2020-11-11-kendo-en-re-confinement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Covid-19 et le kendo</title>
-      <link>phury.github.io/banana-waza/articles/2020-05-31-covid19-et-le-kendo/</link>
+      <link>/banana-waza/articles/2020-05-31-covid19-et-le-kendo/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>phury.github.io/banana-waza/articles/2020-05-31-covid19-et-le-kendo/</guid>
+      <guid>/banana-waza/articles/2020-05-31-covid19-et-le-kendo/</guid>
       <description>N&amp;rsquo;en faite pas!</description>
     </item>
     

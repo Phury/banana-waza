@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auteurs on Banana Waza</title>
-    <link>phury.github.io/banana-waza/authors/</link>
+    <link>/banana-waza/authors/</link>
     <description>Recent content in Auteurs on Banana Waza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-be</language>
-    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="phury.github.io/banana-waza/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/banana-waza/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Günther</title>
-      <link>phury.github.io/banana-waza/authors/gunther/</link>
+      <link>/banana-waza/authors/gunther/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>phury.github.io/banana-waza/authors/gunther/</guid>
+      <guid>/banana-waza/authors/gunther/</guid>
       <description>Günther Reibekuchen est 8ièm dan de kendo, multi-médaillé et professeur principal du club kobura kai kendo club bruxelles (コブラ 会).
 Reibekuchen senseï est né en Allemagne de l&amp;rsquo;Est le 30 avril 1979. Son père, un militaire de carrière belge installé en allemagne, l&amp;rsquo;a éduqué à la dure et c&amp;rsquo;est tout naturellement qu&amp;rsquo;il a développé un sens aigu du combat. Il a commencé le kendo à 14 ans. A 15 ans il remportait les championnats de belgique en catégorie pandas.</description>
     </item>
     
     <item>
       <title>P-H</title>
-      <link>phury.github.io/banana-waza/authors/ph/</link>
+      <link>/banana-waza/authors/ph/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>phury.github.io/banana-waza/authors/ph/</guid>
+      <guid>/banana-waza/authors/ph/</guid>
       <description>P-H est l&amp;rsquo;éditeur en chef de banana waza. Dans son temps libre, il fait du kendo. Il a commencé à 18ans et n&amp;rsquo;a pas arrêté depuis. Même si son kendo casse pas trois pattes à un canard, il continue sur la voie et espère un jour devenir plus for que Dolph Lundgren lui même.</description>
     </item>
     

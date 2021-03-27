@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Banana Waza</title>
-    <link>phury.github.io/banana-waza/categories/</link>
+    <link>/banana-waza/categories/</link>
     <description>Recent content in Categories on Banana Waza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-be</language>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="phury.github.io/banana-waza/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/banana-waza/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Articles</title>
-      <link>phury.github.io/banana-waza/categories/articles/</link>
+      <link>/banana-waza/categories/articles/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>phury.github.io/banana-waza/categories/articles/</guid>
+      <guid>/banana-waza/categories/articles/</guid>
       <description></description>
     </item>
     
