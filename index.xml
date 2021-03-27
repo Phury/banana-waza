@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Banana Waza</title>
+    <link>phury.github.io/banana-waza/</link>
+    <description>Recent content in Home on Banana Waza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-be</language>
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="phury.github.io/banana-waza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Günther</title>
+      <link>phury.github.io/banana-waza/authors/gunther/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>phury.github.io/banana-waza/authors/gunther/</guid>
+      <description>Günther Reibekuchen est 8ièm dan de kendo, multi-médaillé et professeur principal du club kobura kai kendo club bruxelles (コブラ 会).
+Reibekuchen senseï est né en Allemagne de l&amp;rsquo;Est le 30 avril 1979. Son père, un militaire de carrière belge installé en allemagne, l&amp;rsquo;a éduqué à la dure et c&amp;rsquo;est tout naturellement qu&amp;rsquo;il a développé un sens aigu du combat. Il a commencé le kendo à 14 ans. A 15 ans il remportait les championnats de belgique en catégorie pandas.</description>
+    </item>
+    
+    <item>
+      <title>P-H</title>
+      <link>phury.github.io/banana-waza/authors/ph/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>phury.github.io/banana-waza/authors/ph/</guid>
+      <description>P-H est l&amp;rsquo;éditeur en chef de banana waza. Dans son temps libre, il fait du kendo. Il a commencé à 18ans et n&amp;rsquo;a pas arrêté depuis. Même si son kendo casse pas trois pattes à un canard, il continue sur la voie et espère un jour devenir plus for que Dolph Lundgren lui même.</description>
+    </item>
+    
+    <item>
+      <title>A propos</title>
+      <link>phury.github.io/banana-waza/about/</link>
+      <pubDate>Sat, 27 Mar 2021 12:01:34 +0700</pubDate>
+      
+      <guid>phury.github.io/banana-waza/about/</guid>
+      <description>Tous les articles relatés ici sont rédigés dans un but humoristique.</description>
+    </item>
+    
+    <item>
+      <title>Le kendo en re-confinement</title>
+      <link>phury.github.io/banana-waza/articles/2020-11-11-kendo-en-re-confinement/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>phury.github.io/banana-waza/articles/2020-11-11-kendo-en-re-confinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covid-19 et le kendo</title>
+      <link>phury.github.io/banana-waza/articles/2020-05-31-covid19-et-le-kendo/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>phury.github.io/banana-waza/articles/2020-05-31-covid19-et-le-kendo/</guid>
+      <description>N&amp;rsquo;en faite pas!</description>
+    </item>
+    
+    <item>
+      <title>Comprendre Ichi Gan, Ni Soku, San Tan, Shi Riki</title>
+      <link>phury.github.io/banana-waza/articles/2020-04-25-ichi-gan/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>phury.github.io/banana-waza/articles/2020-04-25-ichi-gan/</guid>
+      <description>Un cercle caligraphié, la représentation parfaite des concepts Ichi Gan, Ni Soku, San Tan, Shi Riki Ichi Gan Il faut des yeux pour voir et c&amp;rsquo;est mieux de les ouvrir que de les fermer. Le kendo n&amp;rsquo;est pas la voie de Zatoïchi. La lumière ca nous permet de voir grâce aux particules qui touchent notre adversaire. Nous le ressentons, non seulement par sa présence mais également par son rayonnement. D&amp;rsquo;ailleurs la combinaison foncée n&amp;rsquo;es pas anodine, elle absorbe la lumière de sorte que l&amp;rsquo;on soit moins visible.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>phury.github.io/banana-waza/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>phury.github.io/banana-waza/contact/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+   Day Opening Hours     Tuesday 8:30am - 5:00pm   Wednesday 8:30am - 5:00pm   Thursday 8:30am - 5:00pm   Friday 8:30am - 5:00pm   Saturday 10:am - 4:00pm   Saturday Closed    </description>
+    </item>
+    
+  </channel>
+</rss>
