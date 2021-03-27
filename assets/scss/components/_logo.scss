@@ -1,0 +1,29 @@
+.logo {
+  display: none;
+
+  font-size: 1.3rem;
+  font-family: $font-family-heading;
+  font-weight: bold;
+  
+  @include media-breakpoint-up(sm) {
+    display: block;
+  }
+  a {
+    display: block;
+  }
+  img {
+    width: auto;
+  }
+}
+.logo-mobile {
+  display: block;
+  @include media-breakpoint-up(sm) {
+    display: none;
+  }
+  a {
+    display: block;
+  }
+  img {
+    width: auto;
+  }
+}

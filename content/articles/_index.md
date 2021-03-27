@@ -1,0 +1,8 @@
+---
+title: 'Auteurs'
+intro_image: "images/illustrations/articles.jpg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
+---
+
+# Tous nos articles

@@ -1,24 +1,25 @@
-Title: Covid-19 et le kendo
-Date: 2020-11-11
-Category: Articles
-Author: Gunther
-Tags: kendo, articles, covid-19
+---
+title: "Le kendo en re-confinement"
+date: 2020-11-11
+draft: false
+categories: ["Articles"]
+author: "Gunther"
+tags: ["kendo", "articles", "covid-19"]
+featured: true
+---
 
+<!--more--> 
 
 Voilà ça y est, les pays re-confinent mais sans re-confiner, par contre nous arrêtons bel et bien le kendo. Alors pour ne pas déconnecter et rester en connexion avec la pratique je propose ces quelques activités qui vont vous rendre plus fort que jamais lors du retour au dojo.
 
-<figure class="article">
-	<img class="img-fluid" src="./assets/petanque.jpg" alt="une partie de pétanque très disputée" />
-	<figcaption>La pétanque est un bon moyen de rester en contact avec le Kendo</figcaption>
-</figure>
+{{<img src="/images/petanque.jpg" caption="La pétanque est un bon moyen de rester en contact avec le Kendo">}}
 
 
 # La réalité virtuelle
 
 La réalité virtuelle n'est plus de la science-fiction et il est dès lors possible de re-créer l'excitation d'un match de kendo depuis son fauteuil. Cette activité vous permettra d'aiguiser vos réflexes et peut-être même d'apprendre de nouvelles techniques. Attention, le réalisme est au rendez-vous et il ne faut pas avoir le cœur léger pour survivre aux épreuves difficiles que _Budokan: The Martial Spirit_ met sur notre chemin. S'entraîner avec _Budokan_, c'est un peu comme se battre avec papy Ishio; Il a l'air vieux, mais bon kami que c'est dur:
 
-<iframe class="yt embed" src="https://www.youtube.com/embed/8bquYoCYvhs?t=466s" frameborder="0" allowfullscreen>
-</iframe>
+{{<embed-yt videoId="8bquYoCYvhs?t=466s">}}
 
 Arriverez vous à battre le score de Gunther-sensei ?
 
@@ -27,8 +28,7 @@ Arriverez vous à battre le score de Gunther-sensei ?
 La musique est un moyen de progresser en kendo et il ne faut pas le sous-estimer. Beaucoup de chansons parlent de kendo si l'on sait lire entre les lignes et c'est un exercice intéressant que de faire le lien entre les chansons de notre enfance et notre pratique préférée. Il y a évidemment des chansons plus évidentes que d'autres et je vous propose pour commencer cette pépite dont le lien avec le kendo est évident:
 
 
-<iframe class="yt embed" src="https://www.youtube.com/embed/RG7bINW6soU" frameborder="0" allowfullscreen>
-</iframe>
+{{<embed-yt videoId="RG7bINW6soU">}}
 
 Nous discuterons de vos chansons dans la prochaine session vidéo-kendo.
 
